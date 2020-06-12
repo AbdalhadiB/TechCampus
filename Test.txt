@@ -7,4 +7,4 @@ git reset commitID --hard  // لمسح الكوميت والتعليقات
 git rm --cached Test.txt // لاعادة الملف للتحرير
 git log --oneline // لمشاهدة التاريخ للتعديلات مع ارقام ID
 git add . // or // git add <file> // لاعادة الملف الى الستيج
-git checkout commitID // العودة الى الكوميت رقم ID
+git checkout branch //or // master
