@@ -9,3 +9,4 @@ git rm --cached Test.txt // لاعادة الملف للتحرير
 git log --oneline // لمشاهدة التاريخ للتعديلات مع ارقام ID
 git add . // or // git add <file> // لاعادة الملف الى الستيج
 git checkout branch //or // master
+git branch -a لعرض كل الفروع
