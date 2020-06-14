@@ -3,6 +3,7 @@ fkjjfjjfj
 5
 455
 ------
+git init لمرة واحدة لاضافة وانشاء مستودع جديد
 git reset commitID --hard  // لمسح الكوميت والتعليقات
 git rm --cached Test.txt // لاعادة الملف للتحرير
 git log --oneline // لمشاهدة التاريخ للتعديلات مع ارقام ID
